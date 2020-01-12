@@ -1,0 +1,63 @@
+body {
+    min-width: 420px;
+    min-height: 250px;
+    background: #eee;
+}
+
+
+.sum {
+    position: absolute;
+    top: 150px;
+    left: 145px;
+    width: 220px;
+    height: 245px;
+}
+
+.com {
+    position: absolute;
+    top: 150px;
+    left: 430px;
+    width: 220px;
+    height: 245px;
+}|
+
+#qrcode {
+    position: absolute;
+    top: 280px;
+    left: 650px;
+}
+
+#confirm {
+    width: 65px;
+    height: 65px;
+    position: absolute;
+    top: 380px;
+    left: 680px;
+}
+
+img {
+    z-index: -1;
+}
+
+.text1 {
+    font-size: 20px;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    width: 235px;
+    height: 150px;
+}
+
+.text2  {
+    font-size: 35px;
+    position: absolute;
+    top: 25px;
+    left: 340px;
+    width: 280px;
+    height: 70px;
+}
+
+#back {
+    width: 780px;
+
+}
