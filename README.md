@@ -8,7 +8,7 @@
 
 ## Installation <a name="installation"></a>
 
-Before running these codes, make sure Python versions 3.*, Go are configured properly. If using the ai code module (mainly used for merge photo, recognize article type etc), python packages including numpy, cv2, PIL, qrcode, skimage are installed with proper version, which could refer the requirement.txt file [here]().
+Before running these codes, make sure Python versions 3.*, Go are configured properly. If using the ai code module (mainly used for merge photo, recognize article type etc), python packages including numpy, cv2, PIL, qrcode, skimage are installed with proper version, which could refer the requirement.txt in specific module foler.
 
 After above installation, the code should run with no issues.
 
@@ -19,7 +19,7 @@ This is a project record of three-day hacker marathon. The competition topic is 
 It has three main fucntions: 
 - *share* fuction allows you to input whatever touchs you and why, then a share card photo is generated available for saving and sharing to your friends. 
 - *hot list* functin allows you to check out the moving moment and comments that are shared most. Meanwhile, it also support check the hot list by article type.
-- *heat map* function allows you to see the distributions of share and comments on the article you are reading. The deeper the color, the hotter the discussions. You can also check the hot comment by hovering your mouse over the sentences waiting for a pop-up for a moment. (AH, this fuction is still under-development, aplogize -@) 
+- *heat map* function allows you to see the distributions of share and comments on the article you are reading. The deeper the color, the hotter the discussions. You can also check the hot comment by hovering your mouse over the sentences waiting for a pop-up for a moment. (AH, this fuction is still under-development, aplogize @-@ 
 
 ## File Descriptions <a name="files"></a>
 
@@ -27,7 +27,7 @@ The usage data is not collected here yet. The 1.0 version demo is stored in fold
 
 ## Results<a name="results"></a>
 
-We've provided a video to record the usage of three fuctions of this plugin [here]().
+We've provided a video to record the usage of three fuctions of this plugin [here](https://github.com/PaperStrange/Hackday_2019/blob/master/).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
