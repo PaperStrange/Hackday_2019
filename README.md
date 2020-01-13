@@ -27,7 +27,7 @@ The usage data is not collected here yet. The 1.0 version demo is stored in fold
 
 ## Results<a name="results"></a>
 
-We've provided a video to record the usage of three fuctions of this plugin [here](https://github.com/PaperStrange/Hackday_2019/blob/master/).
+We've provided a video to record the usage of three fuctions of this plugin [here](https://github.com/PaperStrange/Hackday_2019/blob/master/demo1.0%E5%B1%95%E7%A4%BA.mp4).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
